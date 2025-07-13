@@ -1,6 +1,8 @@
 // Gustavo Corona
 // activityTracker.js made July 13, 2025
 
+// *V* Url for GitHub *V
+// https://github.com/SugKrona/cs81-module5b-weektracker
 const myWeek = [
   {
     day: "Monday",
